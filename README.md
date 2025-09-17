@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I’m Ilham Maulud
 
 🎯 **Aspiring Data Analyst | Data Science Enthusiast | Management Graduate**
