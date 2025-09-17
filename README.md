@@ -28,10 +28,6 @@ I’m passionate about transforming raw data into valuable insights that drive b
 
 ## 📂 Featured Projects
 
-### 🔹 Real-Time Data Pipeline for Retail Analytics (October 2025)
-Designed and implemented a data engineering pipeline to collect, clean, and process sales data from multiple sources (CSV, APIs, streaming). Data was stored in a PostgreSQL warehouse and visualized in Tableau for business reporting.  
-**Tools/Tech:** Python, Apache Airflow, PostgreSQL, AWS S3, Docker, Tableau
-
 ### 🔹 [Insightify](https://github.com/FTDS-assignment-bay/p2-final-project-new-ftds-030-hck-group02-insightify-project) (September 2025)
 Evaluated the effectiveness of a marketing campaign using causal inference, comparing treatment vs. control groups to uncover spending patterns, customer behavior, and campaign impact.  
 **Tools/Tech:** Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, DoWhy, EconML
