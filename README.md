@@ -1,48 +1,52 @@
 # 👋 Hi, I’m Ilham Maulud
 
-🎯 **Aspiring Data Analyst | Data Science Enthusiast | Management Graduate**
+🎯 **Aspiring Data Analyst | Data Science Enthusiast | Data Engineering | Management Graduate**
 
 ---
 
 ## 📊 Turning Data into Business Insights
 
-I’m passionate about transforming raw data into valuable insights that drive better business decisions. With a background in Management and hands-on experience in Retail Operations, I now focus on **Data Analysis**, **Data Science**, and **Business Intelligence**.
+I’m passionate about transforming raw data into valuable insights that drive better business decisions. With a background in Management and hands-on experience in Retail Operations, I now focus on **Data Analysis**, **Data Science**, **Data Engineering**, and **Business Intelligence**.
 
 ---
 
 ## 🔧 Skills & Tools
 
-- **General:** Exploratory Data Analysis (EDA), Time Series Analysis, Machine Learning, Cloud ETL
-- **Programming:** Python, SQL
-- **Visualization:** Tableau, Looker Studio, Kibana, AWS QuickSight
-- **Libraries/Frameworks:** TensorFlow, Scikit-Learn, Streamlit, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Feature-Engine
-- **Data & Workflow:** Docker, Apache Airflow, PostgreSQL, ElasticSearch, Apache Kafka, Apache Hadoop
+- **General Skills:** Exploratory Data Analysis (EDA), Time Series Analysis, Machine Learning, Cloud ETL, Data Engineering
+- **Programming Languages:** Python, SQL
+- **Visualization Tools:** Tableau, Looker Studio, Kibana, AWS QuickSight
+- **Libraries / Frameworks:** TensorFlow, Scikit-Learn, Streamlit, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Feature-Engine
+- **Data Engineering & Workflow Tools:** Docker, Apache Airflow, PostgreSQL, ElasticSearch, Apache Kafka, Apache Hadoop, dbt
 - **Techniques:** NLP, Computer Vision, Time Series Forecasting, Kimball Data Modeling
-- **Algorithms:** Regression, Random Forest, Decision Trees, Neural Networks, Clustering, Dimensionality Reduction
-- **Cloud/Platforms:**  
-  - **AWS:** S3, Lambda, Glue, Kinesis, MWAA, Athena  
-  - **Google Cloud:** BigQuery  
+- **Modeling Algorithms:** Regression, Random Forest, Decision Trees, Neural Networks, Clustering, Dimensionality Reduction
+- **Cloud & Platforms:**
+  - **AWS:** S3, Lambda, Glue, Kinesis, MWAA, Athena
+  - **Google Cloud:** BigQuery, Cloud Storage, Dataflow
   - **Others:** Hugging Face
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 [Insightify](https://github.com/FTDS-assignment-bay/p2-final-project-new-ftds-030-hck-group02-insightify-project) (Sep 2025)
-*Analyzed marketing campaign effectiveness using causal inference, uncovering spending patterns and campaign impact.*
-<br>**Tech:** Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, DoWhy, EconML
+### 🔹 Real-Time Data Pipeline for Retail Analytics (October 2025)
+Designed and implemented a data engineering pipeline to collect, clean, and process sales data from multiple sources (CSV, APIs, streaming). Data was stored in a PostgreSQL warehouse and visualized in Tableau for business reporting.  
+**Tools/Tech:** Python, Apache Airflow, PostgreSQL, AWS S3, Docker, Tableau
 
-### 🔹 [Data-Driven Insights into Supermarket Sales Performance](https://github.com/ilhammaulud/Data-Driven-Insights-into-Supermarket-Sales-Performance) (Sep 2025)
-*Built dashboards to monitor sales and customer behavior, revealing actionable insights for stakeholders.*
-<br>**Tech:** Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, TensorFlow, Keras, Streamlit
+### 🔹 [Insightify](https://github.com/FTDS-assignment-bay/p2-final-project-new-ftds-030-hck-group02-insightify-project) (September 2025)
+Evaluated the effectiveness of a marketing campaign using causal inference, comparing treatment vs. control groups to uncover spending patterns, customer behavior, and campaign impact.  
+**Tools/Tech:** Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, DoWhy, EconML
 
-### 🔹 [Cybersecurity Intrusion Detection & Risk Prediction](https://github.com/ilhammaulud/Cybersecurity-Intrusion-Detection-and-Risk-Prediction-Using-Machine-Learning) (Aug 2025)
-*Developed a neural network model for churn prediction, achieving 92% accuracy.*
-<br>**Tech:** Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Scikit-Learn, Feature-Engine, TensorFlow, Keras, Streamlit
+### 🔹 [Data-Driven Insights into Supermarket Sales Performance](https://github.com/ilhammaulud/Data-Driven-Insights-into-Supermarket-Sales-Performance) (September 2025)
+Analyzed supermarket sales data to uncover customer behavior, sales trends, and key business insights. Built an interactive dashboard for stakeholders.  
+**Tools/Tech:** Python, Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Streamlit
 
-### 🔹 [Consumer Behavior & Shopping Patterns Analysis](https://github.com/ilhammaulud/Consumer-Behavior-and-Shopping-Patterns-Analysis-Across-Multiple-Shopping-Malls) (Jul 2025)
-*Forecasted sales across multiple malls with <5% error using advanced time series models.*
-<br>**Tech:** Tableau, Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy
+### 🔹 [Cybersecurity Intrusion Detection & Risk Prediction](https://github.com/ilhammaulud/Cybersecurity-Intrusion-Detection-and-Risk-Prediction-Using-Machine-Learning) (August 2025)
+Developed a machine learning model utilizing Artificial Neural Networks to forecast customer churn for a telecommunications company, achieving 92% accuracy.  
+**Tools/Tech:** Python, Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, Keras, Streamlit
+
+### 🔹 [Consumer Behavior & Shopping Patterns Analysis](https://github.com/ilhammaulud/Consumer-Behavior-and-Shopping-Patterns-Analysis-Across-Multiple-Shopping-Malls) (July 2025)
+Built a forecasting model to predict sales for the next 14 days with an error rate below 5%, based on multi-mall consumer behavior and shopping data.  
+**Tools/Tech:** Tableau, Python, Pandas, NumPy, SciPy
 
 ---
 
