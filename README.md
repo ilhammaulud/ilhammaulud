@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ilham Maulud
 
-🎯 **Aspiring Data Analyst | Data Science Enthusiast | Data Engineering | Management Graduate**
+🎯 **Aspiring Data Analyst | Data Science | Data Engineering | Management Graduate**
 
 ---
 
