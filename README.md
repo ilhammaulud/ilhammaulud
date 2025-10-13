@@ -28,8 +28,7 @@ I’m passionate about transforming raw data into valuable insights that drive b
 ## 📂 Featured Projects
 
 ### 🔹 [Replicoin](https://github.com/ilhammaulud/replicoin) (October 2025)
-RepliCoin is an experimental blockchain prototype designed to explore a new hybrid consensus mechanism: Proof of Stake and Replication (PoSaR), a fusion of energy-efficient staking and active contribution through data replication.
-**Tools/Tech:** Python, Pandas, Ymal, Matplotlib, Pytest
+RepliCoin is an experimental blockchain prototype designed to explore a new hybrid consensus mechanism: Proof of Stake and Replication (PoSaR), a fusion of energy-efficient staking and active contribution through data replication.                                                                                                                  **Tools/Tech:** Python, Pandas, Ymal, Matplotlib, Pytest
 
 ### 🔹 [Insightify](https://github.com/FTDS-assignment-bay/p2-final-project-new-ftds-030-hck-group02-insightify-project) (September 2025)
 Evaluated the effectiveness of a marketing campaign using causal inference, comparing treatment vs. control groups to uncover spending patterns, customer behavior, and campaign impact.  
