@@ -14,19 +14,22 @@ I’m passionate about transforming raw data into valuable insights that drive b
 
 - **General Skills:** Exploratory Data Analysis (EDA), Time Series Analysis, Machine Learning, Cloud ETL, Data Engineering
 - **Programming Languages:** Python, SQL
-- **Visualization Tools:** Tableau, Looker Studio, Kibana, AWS QuickSight
+- **Visualization Tools:** Tableau, Looker Studio, Kibana
 - **Libraries / Frameworks:** TensorFlow, Scikit-Learn, Streamlit, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Feature-Engine
-- **Data Engineering & Workflow Tools:** Docker, Apache Airflow, PostgreSQL, ElasticSearch, Apache Kafka, Apache Hadoop, dbt
+- **Data Engineering & Workflow Tools:** Docker, Apache Airflow, PostgreSQL, ElasticSearch, Apache Kafka, Apache Hadoop
 - **Techniques:** NLP, Computer Vision, Time Series Forecasting, Kimball Data Modeling
 - **Modeling Algorithms:** Regression, Random Forest, Decision Trees, Neural Networks, Clustering, Dimensionality Reduction
 - **Cloud & Platforms:**
-  - **AWS:** S3, Lambda, Glue, Kinesis, MWAA, Athena
   - **Google Cloud:** BigQuery, Cloud Storage, Dataflow
-  - **Others:** Hugging Face
+  - **Others:** Hugging Face, Notion
 
 ---
 
 ## 📂 Featured Projects
+
+### 🔹 [Replicoin](https://github.com/ilhammaulud/replicoin) (October 2025)
+RepliCoin is an experimental blockchain prototype designed to explore a new hybrid consensus mechanism: Proof of Stake and Replication (PoSaR), a fusion of energy-efficient staking and active contribution through data replication.
+**Tools/Tech:** Python, Pandas, Ymal, Matplotlib, Pytest
 
 ### 🔹 [Insightify](https://github.com/FTDS-assignment-bay/p2-final-project-new-ftds-030-hck-group02-insightify-project) (September 2025)
 Evaluated the effectiveness of a marketing campaign using causal inference, comparing treatment vs. control groups to uncover spending patterns, customer behavior, and campaign impact.  
