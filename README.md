@@ -50,10 +50,11 @@ Built a forecasting model to predict sales for the next 14 days with an error ra
 
 ## 📖 About Me
 
-- 🎓 Management graduate shifting career to Data Analytics & Data Science
-- 💡 Strong focus on delivering business-driven insights, not just technical solutions
-- 🚀 Building a diverse portfolio while preparing for Data Analyst / Data Science opportunities
-- 📚 Actively learning ML, Data Visualization, and BI Tools
+💼 Data Analyst with a Management background, experienced in operational data processing, analysis, and reporting.
+💡 Passionate about transforming complex data into actionable business insights and reliable data solutions.
+🛠️ Working with Python, SQL, Pandas, and data visualization tools, while developing hands-on Data Engineering projects.
+🚀 Building practical projects in data analytics, ETL pipelines, automation, and machine learning.
+📚 Continuously improving my skills in SQL, Data Engineering, and cloud technologies.
 
 ---
 
