@@ -17,16 +17,14 @@ actionable insights to stakeholders.
 
 ## 🔧 Skills & Tools
 
-- **General Skills:** Exploratory Data Analysis (EDA), Time Series Analysis, Machine Learning, Cloud ETL, Data Engineering
-- **Programming Languages:** Python, SQL
-- **Visualization Tools:** Tableau, Looker Studio, Kibana
-- **Libraries / Frameworks:** TensorFlow, Scikit-Learn, Streamlit, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Feature-Engine
-- **Data Engineering & Workflow Tools:** Docker, Apache Airflow, PostgreSQL, ElasticSearch, Apache Kafka, Apache Hadoop
-- **Techniques:** NLP, Computer Vision, Time Series Forecasting, Kimball Data Modeling
-- **Modeling Algorithms:** Regression, Random Forest, Decision Trees, Neural Networks, Clustering, Dimensionality Reduction
-- **Cloud & Platforms:**
-  - **Google Cloud:** BigQuery, Cloud Storage, Dataflow
-  - **Others:** Hugging Face, Notion
+- **Programming & Query:** Python, SQL (JOINs, Aggregations, Subqueries, CTEs, Window Functions) 
+- **Data Processing & Analysis:** Pandas, NumPy, SciPy, Excel, Data Cleaning, Data Transformation, Data Validation, Exploratory Data Analysis (EDA) 
+- **Database & Data Engineering:** PostgreSQL, MySQL, Docker, ETL, Data Pipelines 
+- **Visualization Tools:** Tableau, Looker Studio, Streamlit, Matplotlib 
+- **Machine Learning:** Scikit-Learn, TensorFlow, Keras 
+- **Techniques:** Statistical Analysis, Forecasting, Time Series Analysis, Regression, Classification, Clustering, NLP
+- **Other Tools:** Microsoft Office, Git/GitHub 
+- **Soft Skills:** Problem Solving, Business Understanding, Communication, Attention to Detail
 
 ---
 
