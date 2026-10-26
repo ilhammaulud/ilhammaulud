@@ -1,12 +1,17 @@
 # 👋 Hi, I’m Ilham Maulud
 
-🎯 **Data Analyst transitioning to Data Engineering | Management Graduate**
+🎯 **Data Analyst | Python | SQL | Business Intelligence**
 
 ---
 
 ## 📊 Turning Data into Business Insights
 
-I’m passionate about transforming raw data into valuable insights that drive better business decisions. With a background in Management and hands-on experience in Retail Operations, I now focus on **Data Analysis**, **Data Science**, **Data Engineering**, and **Business Intelligence**.
+Data Analyst with professional experience in processing, cleaning, transforming, and analyzing operational 
+data to support business decision-making. Skilled in Python, SQL, Excel, and Pandas, with hands-on 
+experience in data validation, reporting, workflow automation, and identifying data inconsistencies. 
+Experienced in translating business requirements into analytical outputs and operational insights. Strong 
+analytical and problem-solving skills, with a focus on data accuracy, business understanding, and delivering 
+actionable insights to stakeholders. 
 
 ---
 
