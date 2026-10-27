@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ilham Maulud
 
-🎯 **Data Analyst | Python | SQL | Business Intelligence**
+🎯 **Data Analyst | Python | SQL | Business Intelligence | ETL & Data Pipelines | Transitioning to Data Engineering**
 
 ---
 
