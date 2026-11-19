@@ -5,9 +5,8 @@
 ---
 
 ## 📊 Turning Data into Business Insights
----
-Data Analyst with experience in processing, cleaning, and analyzing operational data using Python and Excel. My work focuses on purchasing and inventory analysis, data validation, and reporting. I also have hands-on project experience with SQL, PostgreSQL, and Apache Airflow, including building ETL workflows and preparing data for analysis. 
----
+
+Data Analyst with experience in processing, cleaning, and analyzing operational data using Python and Excel. My work focuses on purchasing and inventory analysis, data validation, and reporting. I also have hands-on project experience with SQL, PostgreSQL, and Apache Airflow, including building ETL workflows and preparing data for analysis.
 
 ## 🔧 Skills & Tools
 
