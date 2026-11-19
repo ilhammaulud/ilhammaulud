@@ -1,18 +1,12 @@
 # 👋 Hi, I’m Ilham Maulud
 
-🎯 **Data Analyst | Python | SQL | Business Intelligence | ETL & Data Pipelines | Transitioning to Data Engineering**
+🎯 **Data Analyst | Python | SQL | ETL & Data Automation**
 
 ---
 
 ## 📊 Turning Data into Business Insights
 
-Data Analyst with professional experience in processing, cleaning, transforming, and analyzing operational 
-data to support business decision-making. Skilled in Python, SQL, Excel, and Pandas, with hands-on 
-experience in data validation, reporting, workflow automation, and identifying data inconsistencies. 
-Experienced in translating business requirements into analytical outputs and operational insights. Strong 
-analytical and problem-solving skills, with a focus on data accuracy, business understanding, and delivering 
-actionable insights to stakeholders. 
-
+Data Analyst with experience in processing, cleaning, and analyzing operational data using Python and Excel. My work focuses on purchasing and inventory analysis, data validation, and reporting. I also have hands-on project experience with SQL, PostgreSQL, and Apache Airflow, including building ETL workflows and preparing data for analysis. 
 ---
 
 ## 🔧 Skills & Tools
